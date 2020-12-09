@@ -1,6 +1,2 @@
-Git is a version contsdrol system.  Git
-is free software.SDASDAS
-ASDASD
-;WQ
-;wq
-
+Git is a distributed version control system.
+Git is free software.
